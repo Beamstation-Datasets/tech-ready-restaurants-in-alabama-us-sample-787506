@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in Alabama, US",
-  "export_job_id": "f05894a7-6b23-468b-872a-a5148356609f",
+  "export_job_id": "57605308-d5eb-4f82-9540-8159efc57819",
   "github_org": "Beamstation-Datasets",
   "id_short": 787506,
   "location_name": "Alabama",
   "location_type": "state",
   "repo_name": "tech-ready-restaurants-in-alabama-us-sample-787506",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/787506/beamstation_787506_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_pct": 6.67,
+  "sample_pct": 5.56,
   "sample_records": 1,
-  "sample_sha256": "e3c1dd38fad9a2632379eb98433ee614721c720620037d1208a02683ddaf220f",
-  "sample_size_bytes": 20161,
-  "total_records": 15,
-  "updated_at": "2026-04-15T10:03:34.411467+00:00"
+  "sample_sha256": "d9e57013ab9abe0d129babd07baf1ee6bede17b2331366143dd38c163c0a23ee",
+  "sample_size_bytes": 20243,
+  "total_records": 18,
+  "updated_at": "2026-04-22T17:25:32.141888+00:00"
 }

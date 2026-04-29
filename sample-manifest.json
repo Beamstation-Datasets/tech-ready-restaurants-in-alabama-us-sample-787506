@@ -1,12 +1,12 @@
 {
-  "export_job_id": "57605308-d5eb-4f82-9540-8159efc57819",
+  "export_job_id": "988938a5-00b5-45a6-a2e0-14545f06808a",
   "id_short": 787506,
-  "published_at": "2026-04-23T07:10:49Z",
+  "published_at": "2026-04-29T19:36:38Z",
   "repo_name": "tech-ready-restaurants-in-alabama-us-sample-787506",
   "sample_asset_name": "beamstation_787506_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/787506/beamstation_787506_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "d9e57013ab9abe0d129babd07baf1ee6bede17b2331366143dd38c163c0a23ee",
-  "sample_size_bytes": 20243,
-  "total_records": 18
+  "sample_records": 13,
+  "sample_sha256": "3ddaaeb0247e446dc3c1454497c2d48dd6ae3ab5c28c00273fdaffeeed9bc42c",
+  "sample_size_bytes": 65184,
+  "total_records": 130
 }

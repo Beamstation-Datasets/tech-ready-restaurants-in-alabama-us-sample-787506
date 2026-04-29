@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Alabama, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `787506` |
 | Location | Alabama |
 | Category | Restaurants |
-| Full dataset size | 18 records |
-| Free sample size | 1 records (5.56%) |
-| Last export | 2026-04-22T17:25:32.141888+00:00 |
+| Full dataset size | 130 records |
+| Free sample size | 13 records (10.0%) |
+| Last export | 2026-04-29T17:15:07.003550+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-alabama-us-sample-787506/releases/download/sample-latest/beamstation_787506_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
